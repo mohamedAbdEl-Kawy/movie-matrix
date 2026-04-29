@@ -2,8 +2,18 @@
 # 🎬 Movie Matrix
 
 A movie browsing and favorites app built with  **React** ,  **Redux Toolkit** , and **Material UI** — developed as a required task for the **Redux & MUI module** during the React course at  **ITI (Information Technology Institute)** .
+
 ---
-## Live Demo : [Click Here](https://mohamedabdel-kawy.github.io/movie-matrix/)
+
+## Live Demo
+[Click Here](https://mohamedabdel-kawy.github.io/movie-matrix/)
+
+---
+
+## Video
+https://github.com/user-attachments/assets/50f2b4c9-d2a1-4394-a167-c2d3e45f7570
+
+---
 
 ## 📸 Pages
 
